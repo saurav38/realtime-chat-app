@@ -1,5 +1,5 @@
 # Realtime chat app
 
-Built with create-react-app, expressjs, socketIO and MangoDB.
+Built with create-react-app, expressjs, socketIO and HarperDB.
 
 
